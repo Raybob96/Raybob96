@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Dalton Smith!
 
-<!--
-**Raybob96/Raybob96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught Python developer in the process of transitioning out of manual labor and production in industrial settings to building digital solutions with code.
 
-Here are some ideas to get you started:
+## Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python3.14
+- **IDEs & Tools:** Pycharm, Visual Studio Code, GitHub
+- **Core Interests:** Workflow automation, CLI tools, back-end logic
+
+# Featured Projects
+
+In Progress
+
+# Current Focus & Learning Journey
+
+- Expanding my portfolio with practical, real-world terminal applications and automation tools
+- Proudly self-taught through structured platforms, hands-on debugging, and building from scratch
+
+# Connect with me
+- **Email:** raybob9696@gmail.com
+- **Linkedin:** (N/A for now)
